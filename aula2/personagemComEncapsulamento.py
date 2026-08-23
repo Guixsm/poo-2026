@@ -51,3 +51,4 @@ print("\n===|Valores inválidos|===\n")
 
 p.nome = ""
 p.vida = 150
+p.nivel = 0
