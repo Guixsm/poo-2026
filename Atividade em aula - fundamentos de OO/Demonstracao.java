@@ -19,3 +19,5 @@ public class Demonstracao{
             System.out.println("Mago criado com o segundo construtor: " + Fer.getNome() + "| Feitiço padrão: " + Fer.getFeitico().getNome());
         }
     }
+/* Autoavaliação: Todos os critérios foram atingidos. A única problemática foi na organização do tempo, principalmente durante a implementação das classes.
+A parte que mais me gerou dificuldade foi apenas em  saber como funcionava a sintaxe de algumas estruturas da linguagem, sendo resolvido após uma breve revisada no meu bloco de anotações.*/
