@@ -1,11 +1,3 @@
-/* Domínio: Sistema de magia RPG
-Classes: Mago(nome, mana, vida, feitiço equipado) e Feitico(nome, custoDeMana)
-Validações: 
-1 - Referente à classe "Feitico" = Custo de mana e dano não poderão ser negativos.
-2 - Referente à classe "Mago" = vida e mana não poderão ser negativos.
-Tempo previsto:
-| Feitico ~= (10 min) ; Mago ~= (20 min) ; Demonstracao ~=(10 min) ; Autoavaliação ~= (5 min) |
-*/
 public class Mago {
     private String nome;
     private int mana;
